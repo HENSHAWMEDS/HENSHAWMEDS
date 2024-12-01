@@ -1,17 +1,20 @@
 # ABOUT ME...
 [*Little codes for great Impact*]
 
-I love Markdown More than Football.
+I am Henshaw Nyong, a graduate of pharnacy with over three years experience and cuurently a MIT-EMERGING TALENT STUDENT.
 
-I am passionate about health and how tech can solve problems in health.
+-I am passionate about health and how tech can solve problems in health.
 
-I am interested in using Data science and tech to solve medicine supply chain problems in underesounced regions and durring emergencies.
+-I have great interest in using Data science and tech to solve medicine supply chain problems in underesourced regions and durring emergencies.
 
-I love Music, the genre doesn't really matter.
+-I am a "controlled low pressure" individual. 
 
-I am a "controlled low pressure" individual which makes being proactive in a new space more difficult.
+[## SKILLS]
 
-I love driving.
+EXCELLENT  COMMUNICATION
 
-<!--I am keeping the "!!" for M.B---->
-WARM REGARDS!! 
+NEGOTIATION SKILLS
+
+PROFICIENT IN MICROSOFT SUITE
+
+CREATIVE AND PROBLEM SOLVING SKILLS
