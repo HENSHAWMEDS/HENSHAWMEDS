@@ -1,12 +1,11 @@
 # ABOUT ME...
+[*Little codes for great Impact*]
+
 I love Markdown More than Football.
 
-*Little codes for great Impact*
-
-**Thank You M.B**
-
-
 I am passionate about health and how tech can solve problems in health.
+
+I am interested in using Data and tech to solve medicine supply chain problems in underesounced regions and durring emergencies.
 
 I love Music, the genre doesn't really matter.
 
