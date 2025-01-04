@@ -8,7 +8,7 @@
 
 -medicine problems in underesourced regions and durring emergencies
 
--I am a controlled low pressure individual 
+-I am a controlled low pressure individual
 
 ## SKILLS
 
