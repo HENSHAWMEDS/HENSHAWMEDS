@@ -1,15 +1,15 @@
-# ABOUT ME...
-[*Little codes for great Impact*]
+# ABOUT ME
 
-I am Henshaw Nyong, a graduate of pharnacy with over three years experience and cuurently a MIT-EMERGING TALENT STUDENT.
+*Little codes for great impacts*
 
 -I am passionate about health and how tech can solve problems in health.
 
--I have great interest in using Data science and tech to solve medicine supply chain problems in underesourced regions and durring emergencies.
+-I am interested in using Data science and tech to solve medicine 
+supply chain problems in underesourced regions and durring emergencies.
 
--I am a "controlled low pressure" individual. 
+-I am a "controlled low pressure" individual 
 
-[## SKILLS]
+## SKILLS
 
 EXCELLENT  COMMUNICATION
 
@@ -18,3 +18,5 @@ NEGOTIATION SKILLS
 PROFICIENT IN MICROSOFT SUITE
 
 CREATIVE AND PROBLEM SOLVING SKILLS
+
+
